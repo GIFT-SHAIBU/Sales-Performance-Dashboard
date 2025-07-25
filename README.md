@@ -1,7 +1,8 @@
-
 # 📊 Sales Performance Dashboard - Power BI
 
 This repository contains a **Sales Performance Dashboard** built with **Power BI** to provide a comprehensive analysis of business sales data. The dashboard offers critical insights into sales performance, profit and loss trends, regional breakdown, and product category analysis.
+
+![Sales Performance Dashboard](./bi.png)
 
 ## 🚀 Features
 
@@ -12,9 +13,10 @@ This repository contains a **Sales Performance Dashboard** built with **Power BI
 - **Sales Breakdown by Payment Method**: Bar chart showing revenue contribution from COD, Credit Card, EMI, UPI, and Debit Card.
 - **Sales Contribution by Product Category**: Pie chart visualizing the percentage of total sales from each category.
 
-## 📁 File Included
+## 📁 Files Included
 
-- `bi.png`: A screenshot of the completed dashboard in Power BI.
+- `bi.png`: 📸 Screenshot of the dashboard.
+- `sales_dataset.csv` *(or replace with actual filename)*: 📊 Dataset used to build the dashboard.
 
 ## 📌 Tools Used
 
@@ -26,8 +28,10 @@ This repository contains a **Sales Performance Dashboard** built with **Power BI
 ## 🛠️ How to Use
 
 1. Clone or download this repository.
-2. View the attached PNG image for the dashboard layout.
-3. Open Power BI Desktop and recreate or enhance the dashboard using your dataset.
+2. View the attached PNG image for dashboard layout inspiration.
+3. Open Power BI Desktop.
+4. Load the dataset (`sales_dataset.csv` or your preferred file).
+5. Rebuild or enhance the dashboard using your data and visuals.
 
 ## 📈 Insights Gained
 
@@ -51,4 +55,4 @@ _Data Analyst | Power BI Enthusiast_
 
 ---
 
-Feel free to star ⭐ the repo if you find it useful or fork 🍴 it to contribute!
+⭐ Feel free to **star** this repository if you find it useful, and **fork** to contribute or adapt it to your own project needs!

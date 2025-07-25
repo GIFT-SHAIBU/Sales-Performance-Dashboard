@@ -50,7 +50,7 @@ _Data Analyst | Power BI Enthusiast_
 ## 🌐 Connect with Me
 
 - GitHub: [GIFT-SHAIBU](https://github.com/GIFT-SHAIBU)
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/gift-shaibu]
 - Email: shaibugift@gmail.com
 
 ---
